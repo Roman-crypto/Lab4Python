@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lab4Python", "Lab4Python\Lab4Python.pyproj", "{90BE70C3-6431-41E5-B314-0B44DF6A1F56}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lab4Python1", "Lab4Python1\Lab4Python1.pyproj", "{DD3DB977-D821-4F7E-BE74-B3C3696A29CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90BE70C3-6431-41E5-B314-0B44DF6A1F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BE70C3-6431-41E5-B314-0B44DF6A1F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3DB977-D821-4F7E-BE74-B3C3696A29CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3DB977-D821-4F7E-BE74-B3C3696A29CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B93D5087-05AA-4EF3-99DE-7E0C476A3A73}
+	EndGlobalSection
+EndGlobal
